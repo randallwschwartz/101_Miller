@@ -535,6 +535,12 @@ pre code {
   overflow-y: scroll;
 }
 
+.center-vid{
+  margin-left: auto;
+  margin-right: auto;
+  display: block
+}
+
 .container {
   width: 100%;
   padding-right: 15px;

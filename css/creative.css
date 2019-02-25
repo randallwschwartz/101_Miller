@@ -52,7 +52,12 @@ h6 {
 }
 
 .text-faded {
+  font-weight: bold;
   color: rgba(255, 255, 255, 0.7);
+}
+
+.text-black {
+  color: black;
 }
 
 section {

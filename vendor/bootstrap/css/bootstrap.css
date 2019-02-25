@@ -9706,6 +9706,7 @@ button.bg-dark:focus {
 
 .text-white {
   color: #fff !important;
+  font-weight: bold;
 }
 
 .text-primary {
